@@ -1,0 +1,6 @@
+[submodule "food-ordering-system-backend"]
+	path = food-ordering-system-backend
+	url = https://github.com/Sachin7878/food-ordering-system-backend.git
+[submodule "food-ordering-frontend"]
+	path = food-ordering-frontend
+	url = https://github.com/Sachin7878/food-ordering-frontend.git
