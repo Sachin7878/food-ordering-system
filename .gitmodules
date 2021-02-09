@@ -4,3 +4,6 @@
 [submodule "food-ordering-frontend"]
 	path = food-ordering-frontend
 	url = https://github.com/Sachin7878/food-ordering-frontend.git
+[submodule "FoodOrderingSystemDotNet"]
+	path = FoodOrderingSystemDotNet
+	url = https://github.com/Sachin7878/FoodOrderingSystemDotNet.git
